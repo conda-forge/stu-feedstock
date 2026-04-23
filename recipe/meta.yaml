@@ -1,4 +1,4 @@
-{% set version = "0.7.4" %}
+{% set version = "0.7.6" %}
 
 package:
   name: stu
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/lusingander/stu/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 5d0d7086c974e61698a1a61cef6258ead08abf3b7328a39a7c20491d2261690f
+  sha256: b8d87203dcaf1ce55193afc28a3c436db98a460348a58a89e14b87449a76c1af
 
 build:
   number: 0
